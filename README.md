@@ -24,9 +24,9 @@
     - [Nikol Pashinyan](https://en.wikipedia.org/wiki/Nikol_Pashinyan)
     - [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)
 2. Are there marginalized groups?
-  - Ethnic
-    - [Anti-Azerbaijani sentiment in Armenia](https://en.wikipedia.org/wiki/Anti-Azerbaijani_sentiment_in_Armenia)
-    - [Anti-Armenian sentiment in Azerbaijan](https://en.wikipedia.org/wiki/Anti-Armenian_sentiment_in_Azerbaijan)
+    - Ethnic
+      - [Anti-Azerbaijani sentiment in Armenia](https://en.wikipedia.org/wiki/Anti-Azerbaijani_sentiment_in_Armenia)
+      - [Anti-Armenian sentiment in Azerbaijan](https://en.wikipedia.org/wiki/Anti-Armenian_sentiment_in_Azerbaijan)
 3. What are the subjects of the conflict?
   - Authority over [Nagorno-Karabakh](https://en.wikipedia.org/wiki/Nagorno-Karabakh)
 4. How could we describe the causes of the conflict?
