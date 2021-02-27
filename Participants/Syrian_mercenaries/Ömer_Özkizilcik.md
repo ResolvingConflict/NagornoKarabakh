@@ -1,0 +1,1 @@
+[2020_-_Ömer_Özkizilcik_-_The_syrian_national_army_-_SETA_Publications](./2020_-_Ömer_Özkizilcik_-_The_syrian_national_army_-_SETA_Publications.pdf)
