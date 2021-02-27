@@ -15,4 +15,4 @@
       - [Russia](https://en.wikipedia.org/wiki/Russia)
   - Non-state
       - [Nagorno-Karabakh Republic](https://en.wikipedia.org/wiki/Republic_of_Artsakh)
-      - [Syrian mercenaries](./Participants/Syrian_mercenaries/[akmckeever.com] 2021.02.27—SNA mercenaries in Azerbaijan- the Visual Evidence – alexander mckeever.mht)
+      - [Syrian mercenaries](./Participants/Syrian_mercenaries/2021.02.27-httpsakmckeever.com20201026sna-mercenaries-in-azerbaijan-the-visual-evidence.mht)
