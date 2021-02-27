@@ -14,6 +14,9 @@
       - [Turkey](https://en.wikipedia.org/wiki/Turkey)
       - [Russia](https://en.wikipedia.org/wiki/Russia)
   - Non-state
-      - [Nagorno-Karabakh Republic](https://en.wikipedia.org/wiki/Republic_of_Artsakh)
-      - [Syrian mercenaries](./Participants/Syrian_mercenaries/)
-      
+    - [Nagorno-Karabakh Republic](https://en.wikipedia.org/wiki/Republic_of_Artsakh)
+    - [Syrian mercenaries](./Participants/Syrian_mercenaries/)
+  - People
+    - [Ilham Aliyev](https://en.wikipedia.org/wiki/Ilham_Aliyev)
+    - [Nikol Pashinyan](https://en.wikipedia.org/wiki/Nikol_Pashinyan)
+    - [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)
