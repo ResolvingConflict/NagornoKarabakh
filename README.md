@@ -8,6 +8,7 @@
     - Intergovernmental
       - [United Nations](https://en.wikipedia.org/wiki/United_Nations)
       - [European Union](https://en.wikipedia.org/wiki/European_Union)
+      - [Turkic Council](https://en.wikipedia.org/wiki/Turkic_Council)
     - States
       - Primary
         - [Armenia](https://en.wikipedia.org/wiki/Armenia)
@@ -27,12 +28,12 @@
     - Ethnic
       - [Anti-Azerbaijani sentiment in Armenia](https://en.wikipedia.org/wiki/Anti-Azerbaijani_sentiment_in_Armenia)
       - [Anti-Armenian sentiment in Azerbaijan](https://en.wikipedia.org/wiki/Anti-Armenian_sentiment_in_Azerbaijan)
+1. What are the subjects of the conflict?
+    - Authority over [Nagorno-Karabakh](https://en.wikipedia.org/wiki/Nagorno-Karabakh)
 1. What is the Status quo?
     - [Nagorno-Karabakh ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement)
     - Which participants have motives to maintain the Status quo?
       - TODO:
-1. What are the subjects of the conflict?
-    - Authority over [Nagorno-Karabakh](https://en.wikipedia.org/wiki/Nagorno-Karabakh)
 1. How could we describe the causes of the conflict?
     - TODO:
 1. How is economic interest present?
