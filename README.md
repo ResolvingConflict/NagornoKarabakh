@@ -120,8 +120,7 @@
 
           - yesterday azerbaijani soldier was killed [hh] on line of contact
             - decorate the soldier who killed azerbaijani so
-
-
+            [Europian Union Berlin economics](NGO)
         - Non interference in our internal affairs [what affairs do they have?]
         - 4M
           - Multi-vectoralism
