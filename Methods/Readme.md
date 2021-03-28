@@ -1,4 +1,13 @@
+## Methods
+1. Find secondary sources about the conflict
+1. Identify [main]participants
+1. Identify [main]events in the past, based on how [main]participants "frame" them
+1. Analyze the past [main]events in the "framing" of the [main]participants from secondary sources
+1. Compare the structure of the conflict with the structure of past events
+
+
 ## What do we know about the structure of the conflict?
+
 ### Bird's eye view
 1. Who is participating?
 	- Intergovernmental
@@ -23,3 +32,5 @@
     - Is there religious opposition?
         - If yes, how intense it is?
 1. What visions does the Participants have for the future?
+
+### Events on the time-line:

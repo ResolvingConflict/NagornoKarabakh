@@ -84,12 +84,18 @@
 
 ### Events on the time-line:
 
-1918.
+| Date | Description | Description | Description |
+| :--- | :--- | :--- | :--- |
+| 1918.03.30 - 1920.11.28 | [Armenian–Azerbaijani War](https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_War)
+| 1920.04.28 | Occupation of the Democratic Republic of Azerbaijan
+| 1923.07.07| Nagorno-Karabakh Autonomous Oblast Established
+| 1975.08.01.| [Helsinki Final Act](./Other_material/1975_Helsinki_Final_Act.pdf) |
+| 1987.09. | [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan") |
+
+
+1918\.
   - [Independent country and loss of independence](https://youtu.be/JFC2hOVh-yQ?t=912, 'Hikmet Hajiyev')
-1975.08.01
-  [Helsinki Final Act](./Other_material/1975_Helsinki_Final_Act.pdf)
-1987.09.
-  - [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan")
+
 1988.
   - [NG "leaving Azerbaijan"]
 1988.02.27-29
@@ -257,6 +263,11 @@
   [Lavrov and Armenian FM Mnatsakanyan hold presser after talks in Moscow](https://www.youtube.com/watch?v=vs7Cep9cKZk&ab_channel=Ruptly "fROM Ruptly")
 
 Other events and people:
+https://karabakh.org/karabakh-history/karabakh-during-the-1920-1988/the-nagorny-karabakh-autonomous-oblast-of-the-azerbaijan-ssr/
+
+http://www.nkr.am/en/azerbaijan-karabakh-conflict-history
+
+
   - [Earle D. Litzenberger](https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Azerbaijan)
   - [Brenda Shaffer](https://en.wikipedia.org/wiki/Brenda_Shaffer "She has been referred to as a lobbyist on behalf of Azerbaijan, and has faced criticism over her writing of political articles and books related to Azerbaijan while hiding her commercial ties to the Azerbaijani government.")
   - [George Kent]
