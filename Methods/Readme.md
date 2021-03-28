@@ -18,8 +18,8 @@
         - If yes, how?
     - Are there territorial disputes?
         - If yes, what are these?
-    - Is there ethnic conflict?
+    - Is there ethnic opposition?
         - If yes, how intense it is?
-    - Is there religious conflict?
+    - Is there religious opposition?
         - If yes, how intense it is?
 1. What visions does the Participants have for the future?
