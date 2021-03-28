@@ -14,12 +14,12 @@
 1. How is the conflict framed?
 1. What grievances does the participants have against each-other?
 1. How could we describe the causes of the conflict?
-    - Jelen van-e a konfliktusban a "biztonsági dilemma"?
-        - Ha igen, akkor hogyan?
-    - Vannak-e területi viták?
-        - Ha igen, akkor melyek ezek?
-    - Van-e etnikai szembenállás?
-        - Ha igen, mekkora a szembenállás mértéke?
-    - Van-e vallási szembenállás?
-        - Ha igen, mekkora a szembenállás mértéke?
+    - Is "Security dilemma" present?
+        - If yes, how?
+    - Are there territorial disputes?
+        - If yes, what are these?
+    - Is there ethnic conflict?
+        - If yes, how intense it is?
+    - Is there religious conflict?
+        - If yes, how intense it is?
 1. What visions does the Participants have for the future?
