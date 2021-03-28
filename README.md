@@ -51,8 +51,13 @@
     - [Nagorno-Karabakh ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement)
     - Which participants have motives to maintain the Status quo?
       - TODO:
-1. How could we describe the causes of the conflict?
-    - TODO:
+1. Is it a new or a recurring conflict?
+    - [ ] New
+    - [X] Recurring
+      - [Armenian–Azerbaijani War](https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_War)
+        - 1918.03.30 - 1920.11.28
+      - [First Nagorno-Karabakh War](https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War)
+        - 1988.02.20 - 1994.05.12
 1. How is economic interest present?
     - [Armenia](https://en.wikipedia.org/wiki/Armenia)
       - TODO:
@@ -70,14 +75,9 @@
     - TODO:
     - [Issue of territory](https://youtu.be/JFC2hOVh-yQ?t=5013 "Azerbaijan")
     -
-1. Is it a new or a recurring conflict?
-    - [ ] New
-    - [X] Recurring
-      - [Armenian–Azerbaijani War](https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_War)
-        - 1918.03.30 - 1920.11.28
-      - [First Nagorno-Karabakh War](https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War)
-        - 1988.02.20 - 1994.05.12
 1. What grievances does the participants have against each-other?
+    - TODO:
+1. How could we describe the causes of the conflict?
     - TODO:
 1. What visions does the Participants have for the future?
     - TODO:
