@@ -88,10 +88,8 @@
   - [Independent country and loss of independence](https://youtu.be/JFC2hOVh-yQ?t=912, 'Hikmet Hajiyev')
 1975.08.01
   [Helsinki Final Act](./Other_material/1975_Helsinki_Final_Act.pdf)
-
 1987.09.
   - [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan")
-
 1988.
   - [NG "leaving Azerbaijan"]
 1988.02.27-29
