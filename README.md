@@ -93,6 +93,35 @@
 | 1987.09. | [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan") |
 
 
+### Question topics:
+
+| Date/Toppic | Armenian  | Azerbajdjani | Other Notes |
+| :--- | :--- | :--- | :--- |
+| Lingo | self-determination |  | Other Notes |
+| Lingo | re-unification |  | To which time point? |
+| Lingo | threat of physical annihilation |  |  |
+| 1917 | Transcaucasian Commissariat1 took control of Transcaucasia  |  | 1. Transcaucasian Slejm |
+| 1917.12.05.(OS) |  |  | [Armistice of Erzincan](https://en.wikipedia.org/wiki/Armistice_of_Erzincan) |
+| 1918.02.10 (23) | [Slejm] set out to determine the organization of the government and form the authorities of the region. |  | The what from what? |
+| 1918.01.15-16 | |  | Ottoman forces began advancing across the line in defiance of the armistice, having rejected the Transcaucasian Commissariat's authority to sign it and accused the Armenians of massacring Muslims behind the Ottoman line on 15–16 January. |
+| 1918.02.10 (23) | [Slejm] set out to determine the organization of the government and form the authorities of the region. |  | The what from what? |
+| 1918.03.03 | | [Treaty of Brest-Litovsk](https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk) |
+| 1918.04.09 | Sejm announced the secession of Transcaucasia from Russia and declared the independence of the Transcaucasian Democratic Federative Republic |  | Short lived: Turkish invasion of Transcaucasia |
+|  1918.05.21-29 |  |  | [Battle of Sardarabad](https://en.wikipedia.org/wiki/Battle_of_Sardarabad) |
+| 1918.05.26 | Sejm proclaimed the breakup of the Transcaucasian Democratic Federative Republic and resigned |  | Georgia declared its independence |
+| 1918.05.26-28 |  | secret delegation had been sent to Istanbul by the representatives of Azerbaijani political parties in order to negotiate the assistance of the Young Turks in the process of declaring the independence of "the second Turkish state" | When? |
+| 1918.05.28 | Republic of Armenia declared its independence | Democratic Republic of Azerbaijan declared its independence |  |
+| 1918.05.EndOf |  5th Turkish division had already entered Ganja (Gandzak), which had become the first capital of Azerbaijan Democratic Republic |  | Nuri Pasha moved from Tabriz to Ganja |
+| 1918.05.EndOf- OrWhen? | Azerbaijan, which had never had statehood before, claimed not only territories compactly inhabited by Muslims, but also localities inhabited exclusively by Armenians. Artsakh (Karabakh) had a special importance among those regions due to its strategic position in the region and "could become either a corridor or a barrier between the Muslims of Eastern Transcaucasia and Turkey, depending on the fact under whose control it was"7 |  | What exactly? |
+| 1918.06.04 | [Treaty of Batum](https://en.wikipedia.org/wiki/Treaty_of_Batum) |  | What do we know about NG? |
+| 1918.07.22 | [First Assembly of Armenians of Karabakh declared Karabakh a separate administrative and political entity](, 'Декларация народного правительства Карабаха. «Нагорный Карабах в 1918-1923 гг. Сборник документов и материалов» / Под ред. В.А.Микаеляна. – Ереван: Академия наук Армении, 1992 (Declaration of People's Government of Karabakh, in Nagorno Karabakh in 1918-1923. Collection of Documents and Materials. V.A. Mikaelyan - Yerevan, Armenian Academy of Sciences, 1992). p. 13-15') |  | **Who recognised this?** |
+| 1918.07.24 | Declaration of the Government, outlining the objectives of the newly formed state authorities, was adopted |  | **Who recognised this?** |
+| 1918.09.15 | capture of Baku by the Islamic Army, followed by massacres of its Armenian population |  | Cemil Cahit Bey |
+| 1920 | self-determination |  | Other Notes |
+
+
+##############################
+
 1918\.
   - [Independent country and loss of independence](https://youtu.be/JFC2hOVh-yQ?t=912, 'Hikmet Hajiyev')
 
