@@ -83,6 +83,20 @@
 1. [ ] What visions does the Participants have for the future?
     - TODO:
 
+### What observations do we have about the Participants?
+
+1. [Surrounding]
+    - What ethnicities [ethinc structures] does parti holds?
+      - Source of data:
+        - [Federal State Statistics Service](https://rosstat.gov.ru/ "Федеральная служба государственной статистики")
+        - [State Statistics Committee of Azerbaijan Republic](https://www.stat.gov.az/ "Azərbaycan Respublikasının Dövlət Statistika Komitəsi")
+        - [Statistical Committee of the Republic of Armenia](https://armstat.am/am/ "Հայաստանի վիճակագրական կոմիտե")
+        - [2005 census of Nagorno-Karabakh](http://census.stat-nkr.am/ "Armenia")
+        - [Population statistics of Eastern Europe & former USSR](http://pop-stat.mashke.org/ "Institute for Health Metrics and Evaluation is an independent global health research center at the University of Washington")
+        - [Ethno-Caucasus](http://www.ethno-kavkaz.narod.ru/ "")
+
+
+
 ### Events on the time-line:
 
 | Date | Description | Description | Description |
