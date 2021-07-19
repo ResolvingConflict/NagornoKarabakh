@@ -88,7 +88,7 @@
 ### What observations do we have about the Participants?
 
 1. [Surrounding]
-    - What ethnicities [ethinc structures] does parti holds?
+    - What ethnicities (ethnic structure) does participants holds?
       - Source of data:
         - [Federal State Statistics Service](https://rosstat.gov.ru/ "Федеральная служба государственной статистики")
         - [State Statistics Committee of Azerbaijan Republic](https://www.stat.gov.az/ "Azərbaycan Respublikasının Dövlət Statistika Komitəsi")
@@ -96,8 +96,9 @@
         - [2005 census of Nagorno-Karabakh](http://census.stat-nkr.am/ "Armenia")
         - [Population statistics of Eastern Europe & former USSR](http://pop-stat.mashke.org/ "Institute for Health Metrics and Evaluation is an independent global health research center at the University of Washington")
         - [Ethno-Caucasus](http://www.ethno-kavkaz.narod.ru/ "")
-
-
+        - [Etnikai-földrajzi vizsgálatok a Kaukázus-vidéken](https://evfm.elte.hu/media/49/b9/1e98599f34d1b8ab129a23fa7a287d61e06b21290ff9faeb9b349a02d348/Megyesi_Z_2014.pdf)
+    - What religions do participants hold?
+    -
 
 ### Events on the time-line:
 
