@@ -48,9 +48,11 @@
 1. [X] What are the subjects of the conflict?
     - Authority over [Nagorno-Karabakh](https://en.wikipedia.org/wiki/Nagorno-Karabakh)
 1. [X] What is the Status quo?
+    - [No:406/20, Statement](https://mfa.gov.az/en/news/no40620-statement-by-the-president-of-the-republic-of-azerbaijan-the-prime-minister-of-the-republic-of-armenia-and-the-president-of-the-russian-federation-enru)
     - [Nagorno-Karabakh ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement)
     - Which participants have motives to maintain the Status quo?
-      - TODO:
+      - **[Azerbaijan]**(https://www.youtube.com/watch?v=tQuIxpdJdn4)
+      - [Armenia](https://www.primeminister.am/en/statements-and-messages/item/2020/11/12/Nikol-Pashinyan-Speech/)
 1. [X] Is it a new or a recurring conflict?
     - [ ] New
     - [X] Recurring
@@ -72,12 +74,12 @@
       - TODO:
     - [United States](https://en.wikipedia.org/wiki/United_States)
       - TODO:
-1. [ ] How is the conflict framed?
-    - TODO:
+1. [X] How is the conflict framed?
+    - For "Bird's eye view"
     - [Issue of territory](https://youtu.be/JFC2hOVh-yQ?t=5013 "Azerbaijan")
-    -
-1. [ ] What grievances does the participants have against each-other?
-    - TODO:
+1. [X] What grievances does the participants have against each-other?
+    - [Multiple hostilities](https://web.archive.org/web/20130418105149/http://www.silkroadstudies.org/new/inside/publications/1999_NK_Book.pdf)
+    - [Previously Displaced Persons](https://www-origin.usaid.gov/sites/default/files/documents/02.05.2021-_USG_Nagorno-Karabakh_Complex_Emergency_Fact_Sheet_1.pdf)
 1. [ ] How could we describe the causes of the conflict?
     - TODO:
 1. [ ] What visions does the Participants have for the future?
@@ -107,7 +109,7 @@
 | 1975.08.01.| [Helsinki Final Act](./Other_material/1975_Helsinki_Final_Act.pdf) |
 | 1987.09. | [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan") |
 
- 
+
 ### Question topics:
 
 | Date/Toppic | Armenian  | Azerbajdjani | Other Notes |
