@@ -107,7 +107,7 @@
 | 1975.08.01.| [Helsinki Final Act](./Other_material/1975_Helsinki_Final_Act.pdf) |
 | 1987.09. | [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan") |
 
-
+ 
 ### Question topics:
 
 | Date/Toppic | Armenian  | Azerbajdjani | Other Notes |
