@@ -98,6 +98,9 @@
         - [Ethno-Caucasus](http://www.ethno-kavkaz.narod.ru/ "")
         - [Etnikai-földrajzi vizsgálatok a Kaukázus-vidéken](https://evfm.elte.hu/media/49/b9/1e98599f34d1b8ab129a23fa7a287d61e06b21290ff9faeb9b349a02d348/Megyesi_Z_2014.pdf)
     - What religions do participants hold?
+      - Source of data:
+        - [2017 - Religion, Nation and Democracy in the South Caucasus](https://github.com/ResolvingConflict/NagornoKarabakh/blob/main/Other_material/2017%20-%20A.%20Agadjanian%20-%20A.%20J%C3%B6dicke%20-%20E%20van%20der%20Zweerde%20-%20Religion%20Nation%20and%20Democracy%20in%20the%20South%20Caucasus.pdf)
+        - [2009 - Religiosity and Trust in Religious Institutions Tales from the South Caucasus] 
     -
 
 ### Events on the time-line:
