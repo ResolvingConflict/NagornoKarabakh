@@ -5,10 +5,7 @@
 1. Analyze the past [main]events in the "framing" of the [main]participants from secondary sources
 1. Compare the structure of the conflict with the structure of past events
 
-
-## What do we know about the structure of the conflict?
-
-### Bird's eye view
+## Bird's eye view
 1. Who is participating?
 	- Intergovernmental
 	- States
@@ -33,4 +30,15 @@
         - If yes, how intense it is?
 1. What visions does the Participants have for the future?
 
-### Events on the time-line:
+## Conflict analysis tools used
+1. Conflict timeline
+1. Conflict tree
+1. Conflict mapping (Paul Wehr)
+1. Conflict escalation model (Friedrich Glasl)
+1. Inmedio's conflict perspective analysis
+1. Needs-Fears Mapping
+
+
+## What observations do we have about the Participants?
+
+## What do we know about the structure of the conflict?

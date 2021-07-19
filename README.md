@@ -89,7 +89,7 @@
 
 1. [Surrounding]
     - What ethnicities (ethnic structure) does participants holds?
-      - Source of data:
+      - Source of data and secondary sources:
         - [Federal State Statistics Service](https://rosstat.gov.ru/ "Федеральная служба государственной статистики")
         - [State Statistics Committee of Azerbaijan Republic](https://www.stat.gov.az/ "Azərbaycan Respublikasının Dövlət Statistika Komitəsi")
         - [Statistical Committee of the Republic of Armenia](https://armstat.am/am/ "Հայաստանի վիճակագրական կոմիտե")
@@ -98,10 +98,14 @@
         - [Ethno-Caucasus](http://www.ethno-kavkaz.narod.ru/ "")
         - [Etnikai-földrajzi vizsgálatok a Kaukázus-vidéken](https://evfm.elte.hu/media/49/b9/1e98599f34d1b8ab129a23fa7a287d61e06b21290ff9faeb9b349a02d348/Megyesi_Z_2014.pdf)
     - What religions do participants hold?
-      - Source of data:
+      - Source of data and secondary sources:
         - [2017 - Religion, Nation and Democracy in the South Caucasus](https://github.com/ResolvingConflict/NagornoKarabakh/blob/main/Other_material/2017%20-%20A.%20Agadjanian%20-%20A.%20J%C3%B6dicke%20-%20E%20van%20der%20Zweerde%20-%20Religion%20Nation%20and%20Democracy%20in%20the%20South%20Caucasus.pdf)
-        - [2009 - Religiosity and Trust in Religious Institutions Tales from the South Caucasus] 
-    -
+        - [2009 - Religiosity and Trust in Religious Institutions Tales from the South Caucasus](https://github.com/ResolvingConflict/NagornoKarabakh/blob/main/Other_material/2009%20-%20Robia%20Charles%20-%20Religiosity%20and%20Trust%20in%20Religious%20Institutions%20Tales%20from%20the%20South%20Caucasus.pdf)
+        - [2010 - State Building and Conflict Resolution in the Caucasus]()
+        - [2017 - Religion and Soft Power in the South Caucasus]()
+    - What identities do participates hold?
+      - [ ]
+    - What
 
 ### Events on the time-line:
 
