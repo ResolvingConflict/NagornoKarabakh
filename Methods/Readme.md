@@ -31,12 +31,12 @@
 1. What visions does the Participants have for the future?
 
 ## Conflict analysis tools used
-1. Conflict timeline
-1. Conflict tree
+1. Conflict timeline (Simon Fisher)
+1. Conflict tree (Simon Fisher)
 1. Conflict mapping (Paul Wehr)
 1. Conflict escalation model (Friedrich Glasl)
 1. Inmedio's conflict perspective analysis
-1. Needs-Fears Mapping
+1. Needs-Fears Mapping (CSS Conflict Analysis Tools)
 
 
 ## What observations do we have about the Participants?
