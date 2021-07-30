@@ -111,9 +111,13 @@
 
 ### Events on the time-line:
 
+| Date                  | Flags | Events               |  |  |  |
 
-| 1918.03.03            | 🇩🇪🇹🇷🇷🇺🇧🇬🇦🇹🇭🇺 | [Treaty of Brest-Litovsk](https://wwi.lib.byu.edu/index.php/The_Peace_Treaty_of_Brest-Litovsk)                                                                                                    |  |  |  |
+
+
+| Date            | Flags |Events                                                                                                 |  |  |  |
 | --------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  |  |  |
+| 1918.03.03            | 🇩🇪🇹🇷🇷🇺🇧🇬🇦🇹🇭🇺 | [Treaty of Brest-Litovsk](https://wwi.lib.byu.edu/index.php/The_Peace_Treaty_of_Brest-Litovsk)                                                                                                    |  |  |  |
 | 1918.05.21-29         | 🇦🇲                     | [Battle of Sardarabad](https://en.wikipedia.org/wiki/Battle_of_Sardarabad)                                                                                                                        |  |  |  |
 | 1918.06.04            | 🇦🇲🇦🇿🇬🇪🇹🇷         | [Treaty of Batum](https://en.wikipedia.org/wiki/Treaty_of_Batum)                                                                                                                                  |  |  |  |
 |                       |                          |                                                                                                                                                                                                   |  |  |  |
@@ -161,7 +165,7 @@
 | 2019.03.30            | 🇦🇲                     | ["More wars for more territories"](https://www.aravot.am/2019/03/30/1032523/)                                                                                                                     |  |  |  |
 | 2019.06.11            | 🇦🇿                     | [Atlantic Council A Conversation with Hikmet Hajiyev](https://www.youtube.com/watch?v=JFC2hOVh-yQ)                                                                                                |  |  |  |
 |                       |                          |                                                                                                                                                                                                   |  |  |  |
-| 2020.02               |                          | Survey: 85% rejected any return to the smaller lands of the Nagorno-Karabakh Autonomous Oblast (NKAO) 820 respondents                                                                             |  |  |  |
+| 2020.02               |                          |[ Survey: 85% rejected any return to the smaller lands of the Nagorno-Karabakh Autonomous Oblast (NKAO) 820 respondents](https://github.com/ResolvingConflict/NagornoKarabakh/blob/main/Other_material/2021%20-%20Caucasus%20Analytical%20Digest.pdf)                                                                             |  |  |  |
 | 2020.03.04            | 🇦🇲                     | [Military Prosecutor\`s Office of Armenia revealed 154 corruption crimes](https://arminfo.info/full_news.php?id=49857&lang=3)                                                                     |  |  |  |
 | 2020.03.19            | 🇦🇿                     | [Aliyev would "end" the National Council and the Popular Front Party](https://www.turan.az/ext/srch/2021/3/free/politics_news/en/2000.htm/1616152601_nySLRnkJ-1.htm/20/opposition)                |  |  |  |
 | 2020.07.12            | 🇦🇲🇦🇿                 | [July clashes](https://www.turan.az/ext/news/2020/7/free/analytics/en/125764.htm)                                                                                                                 |  |  |  |
