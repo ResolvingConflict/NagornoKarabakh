@@ -111,227 +111,71 @@
 
 ### Events on the time-line:
 
-| Date | Description | Description | Description |
-| :--- | :--- | :--- | :--- |
-| 1918.03.30 - 1920.11.28 | [Armenian–Azerbaijani War](https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_War)
-| 1920.04.28 | Occupation of the Democratic Republic of Azerbaijan
-| 1923.07.07| Nagorno-Karabakh Autonomous Oblast Established
-| 1975.08.01.| [Helsinki Final Act](./Other_material/1975_Helsinki_Final_Act.pdf) |
-| 1987.09. | [Union for National Self-Determination](https://en.wikipedia.org/wiki/Union_for_National_Self-Determination "First non-Communist party, established in Armenia by Paruyr Hayrikyan") |
+
+| 1918.03.03            | 🇩🇪🇹🇷🇷🇺🇧🇬🇦🇹🇭🇺 | [Treaty of Brest-Litovsk](https://wwi.lib.byu.edu/index.php/The_Peace_Treaty_of_Brest-Litovsk)                                                                                                    |  |  |  |
+| --------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  |  |  |
+| 1918.05.21-29         | 🇦🇲                     | [Battle of Sardarabad](https://en.wikipedia.org/wiki/Battle_of_Sardarabad)                                                                                                                        |  |  |  |
+| 1918.06.04            | 🇦🇲🇦🇿🇬🇪🇹🇷         | [Treaty of Batum](https://en.wikipedia.org/wiki/Treaty_of_Batum)                                                                                                                                  |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 1992.03.24            | 🇺🇸🇫🇷🇷🇺(chairs)     | [OSCE Minsk Group formation](https://en.wikipedia.org/wiki/OSCE_Minsk_Group)                                                                                                                      |  |  |  |
+| 1993.04.30            | 🇺🇳                     | [RESOLUTION 822](https://2001-2009.state.gov/p/eur/rls/or/13508.htm)                                                                                                                              |  |  |  |
+| 1993.07.29            | 🇺🇳                     | [RESOLUTION 853](https://2001-2009.state.gov/p/eur/rls/or/13508.htm)                                                                                                                              |  |  |  |
+| 1993.10.14            | 🇺🇳                     | RESOLUTION 874                                                                                                                                                                                    |  |  |  |
+| 1993.11.12            | 🇺🇳                     | RESOLUTION 884                                                                                                                                                                                    |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2001.04.06            | 🇺🇸🇫🇷🇷🇺(chairs)     | Key West Peace Talks                                                                                                                                                                              |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2002.10.6             | 🇦🇲🇦🇿🇷🇺             | [CIS summit in Chisinau "Minsk Group \[...\] had not been effective enough. (pg69)"](https://www.osw.waw.pl/sites/default/files/prace_9_1.pdf)                                                    |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2003.10.15            | 🇦🇿                     | [Azerbaijani presidential election](https://www.hrw.org/legacy/backgrounder/eca/azerbaijan/azerbaijan-elections2003.pdf)                                                                          |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2005                  | 🇦🇿                     | [Azerbaijani military spendings starts to rise](https://sipri.org/sites/default/files/Data%20for%20all%20countries%20from%201988%E2%80%932020%20in%20constant%20%282019%29%20USD%20%28pdf%29.pdf) |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2008.02.19            | 🇦🇲                     | [Armenian presidential election](https://en.wikipedia.org/wiki/2008_Armenian_presidential_election_protests)                                                                                      |  |  |  |
+| 2008.03.04            | 🇦🇲🇦🇿                 | [Mardakert clashes](http://news.bbc.co.uk/2/hi/europe/7278871.stm)                                                                                                                                |  |  |  |
+| 2008.10.15            | 🇦🇿                     | [Azerbaijani presidential election](https://www.rferl.org/a/Azerbaijani_Election_Campaign_Opens/1200756.html)                                                                                     |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2010.06.18-19         | 🇦🇲🇦🇿                 | [Mardakert clashes](https://www.rferl.org/a/Armenian_Azerbaijani_Clashes_Continue_In_Karabakh/2078581.html)                                                                                       |  |  |  |
+| 2010.09.01            | 🇷🇺                     | Dmitry Medvedev's visit to Azerbaijan                                                                                                                                                             |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2013.02.18            | 🇦🇲                     | [Armenian presidential election](https://en.wikipedia.org/wiki/2013_Armenian_presidential_election)                                                                                               |  |  |  |
+| 2013.10.09.           | 🇦🇿                     | [Azerbaijani presidential election](https://www.osce.org/files/f/documents/0/0/110015.pdf)                                                                                                        |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2015.12.06.           | 🇦🇲                     | [Armenian constitutional referendum](https://www.rferl.org/a/armenia-president-constitutional-referendum/27295710.html)                                                                           |  |  |  |
+| 2015.12.19.           | 🇦🇲🇦🇿                 | [Serzh Sargsyan and Ilham Aliyev held a summit in Bern](https://www.osce.org/mg/211456)                                                                                                           |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2016.01.30            | 🇦🇿                     | [Aliyev criticized the work of the OSCE Minsk Group](https://www.kavkaz-uzel.eu/articles/276774/)                                                                                                 |  |  |  |
+| 2016.04.01            | 🇦🇲🇦🇿                 | [Four-Day War / April War](https://tass.ru/mezhdunarodnaya-panorama/3171918)                                                                                                                      |  |  |  |
+| 2016.05.17            | 🇦🇿🇦🇲                 | [Statement on the use of white phosphorus bomb](https://web.archive.org/web/20160621200311/http://www.mfa.gov.az/en/news/909/4104)                                                                |  |  |  |
+| 2016.09.26            | 🇦🇿                     | [Azerbaijani constitutional referendum](https://www.amnesty.org/en/latest/news/2016/09/azerbaijan-assaults-on-freedom-of-expression-mar-constitutional-referendum/)                               |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2017.10.17            | 🇦🇿🇦🇲                 | [An other Joint Statement](https://www.osce.org/minsk-group/350091)                                                                                                                               |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2018.03.02            | 🇦🇲                     | [Armenian presidential election](https://www.rferl.org/a/armenia-armen-sarkisian-new-president/29072539.html)                                                                                     |  |  |  |
+| 2018.04.11            | 🇦🇿                     | [Azerbaijani presidential election](https://www.reuters.com/article/us-azerbaijan-election-monitors/azeri-presidents-supporters-heckle-as-observers-declare-election-unfair-idUSKBN1HJ1GW)        |  |  |  |
+| 2018.03.31-2018.05.08 | 🇦🇲                     | [Armenian revolution](https://www.panorama.am/am/news/2018/03/31/%D5%93%D5%A1%D5%B7%D5%AB%D5%B6%D5%B5%D5%A1%D5%B6-%D6%84%D5%A1%D5%B5%D5%AC%D5%A1%D6%80%D5%B7%D5%A1%D5%BE/1927396)                 |  |  |  |
+| 2018.6.17             | 🇦🇲                     | [Manvel Grigoryan on “illegal acquisition and possession of firearms”](https://hetq.am/en/article/90317)                                                                                          |  |  |  |
+| 2018.10.15            | 🇦🇲                     | [John Bolton in Yerevan](https://www.azatutyun.am/a/29563885.html)                                                                                                                                |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2019.03.30            | 🇦🇲                     | ["More wars for more territories"](https://www.aravot.am/2019/03/30/1032523/)                                                                                                                     |  |  |  |
+| 2019.06.11            | 🇦🇿                     | [Atlantic Council A Conversation with Hikmet Hajiyev](https://www.youtube.com/watch?v=JFC2hOVh-yQ)                                                                                                |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2020.02               |                          | Survey: 85% rejected any return to the smaller lands of the Nagorno-Karabakh Autonomous Oblast (NKAO) 820 respondents                                                                             |  |  |  |
+| 2020.03.04            | 🇦🇲                     | [Military Prosecutor\`s Office of Armenia revealed 154 corruption crimes](https://arminfo.info/full_news.php?id=49857&lang=3)                                                                     |  |  |  |
+| 2020.03.19            | 🇦🇿                     | [Aliyev would "end" the National Council and the Popular Front Party](https://www.turan.az/ext/srch/2021/3/free/politics_news/en/2000.htm/1616152601_nySLRnkJ-1.htm/20/opposition)                |  |  |  |
+| 2020.07.12            | 🇦🇲🇦🇿                 | [July clashes](https://www.turan.az/ext/news/2020/7/free/analytics/en/125764.htm)                                                                                                                 |  |  |  |
+| 2020.06.16            | 🇦🇲                     | [Armenia releases former president Kocharyan on $4 million bail](https://www.reuters.com/article/us-armenia-president-bail-idUSKBN23P2J6)                                                         |  |  |  |
+| 2020.09.27            | 🇦🇿                     | [Azerbaijani authorities restricted internet](https://tvrain.ru/news/vlasti_azerbajdzhana_ogranichili_dostup_k_internetu_posle_obstrelov_v_karabahe-516731/)                                      |  |  |  |
+| 2020.09.27            | 🇦🇿🇦🇲                 | [Shelling attacks on Vardenis](https://twitter.com/ArmenianUnified/status/1310860844360663040)                                                                                                    |  |  |  |
+|                       |                          |                                                                                                                                                                                                   |  |  |  |
+| 2021.03.02            | 🇦🇿                     | [The Coup That Never Happened and the "Karabakh Clan"](https://politicstoday.org/the-coup-that-never-happened-and-the-karabakh-clan-in-the-armenian-army/)                                        |  |  |  |
+| 2021.03.05            | 🇦🇿                     | [Aliyev voiced hatred and insults against his opponents](https://www.turan.az/ext/srch/2021/3/free/politics_news/en/2000.htm/1616152601_nySLRnkJ-1.htm/20/opposition)                             |  |  |
 
 
-### Question topics:
-
-| Date/Toppic | Armenian  | Azerbajdjani | Other Notes |
-| :--- | :--- | :--- | :--- |
-| Lingo | self-determination |  | Other Notes |
-| Lingo | re-unification |  | To which time point? |
-| Lingo | threat of physical annihilation |  |  |
-| 1917 | Transcaucasian Commissariat1 took control of Transcaucasia  |  | 1. Transcaucasian Slejm |
-| 1917.12.05.(OS) |  |  | [Armistice of Erzincan](https://en.wikipedia.org/wiki/Armistice_of_Erzincan) |
-| 1918.02.10 (23) | [Slejm] set out to determine the organization of the government and form the authorities of the region. |  | The what from what? |
-| 1918.01.15-16 | |  | Ottoman forces began advancing across the line in defiance of the armistice, having rejected the Transcaucasian Commissariat's authority to sign it and accused the Armenians of massacring Muslims behind the Ottoman line on 15–16 January. |
-| 1918.02.10 (23) | [Slejm] set out to determine the organization of the government and form the authorities of the region. |  | The what from what? |
-| 1918.03.03 | | [Treaty of Brest-Litovsk](https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk) |
-| 1918.04.09 | Sejm announced the secession of Transcaucasia from Russia and declared the independence of the Transcaucasian Democratic Federative Republic |  | Short lived: Turkish invasion of Transcaucasia |
-|  1918.05.21-29 |  |  | [Battle of Sardarabad](https://en.wikipedia.org/wiki/Battle_of_Sardarabad) |
-| 1918.05.26 | Sejm proclaimed the breakup of the Transcaucasian Democratic Federative Republic and resigned |  | Georgia declared its independence |
-| 1918.05.26-28 |  | secret delegation had been sent to Istanbul by the representatives of Azerbaijani political parties in order to negotiate the assistance of the Young Turks in the process of declaring the independence of "the second Turkish state" | When? |
-| 1918.05.28 | Republic of Armenia declared its independence | Democratic Republic of Azerbaijan declared its independence |  |
-| 1918.05.EndOf |  5th Turkish division had already entered Ganja (Gandzak), which had become the first capital of Azerbaijan Democratic Republic |  | Nuri Pasha moved from Tabriz to Ganja |
-| 1918.05.EndOf- OrWhen? | Azerbaijan, which had never had statehood before, claimed not only territories compactly inhabited by Muslims, but also localities inhabited exclusively by Armenians. Artsakh (Karabakh) had a special importance among those regions due to its strategic position in the region and "could become either a corridor or a barrier between the Muslims of Eastern Transcaucasia and Turkey, depending on the fact under whose control it was"7 |  | What exactly? |
-| 1918.06.04 | [Treaty of Batum](https://en.wikipedia.org/wiki/Treaty_of_Batum) |  | What do we know about NG? |
-| 1918.07.22 | [First Assembly of Armenians of Karabakh declared Karabakh a separate administrative and political entity](, 'Декларация народного правительства Карабаха. «Нагорный Карабах в 1918-1923 гг. Сборник документов и материалов» / Под ред. В.А.Микаеляна. – Ереван: Академия наук Армении, 1992 (Declaration of People's Government of Karabakh, in Nagorno Karabakh in 1918-1923. Collection of Documents and Materials. V.A. Mikaelyan - Yerevan, Armenian Academy of Sciences, 1992). p. 13-15') |  | **Who recognised this?** |
-| 1918.07.24 | Declaration of the Government, outlining the objectives of the newly formed state authorities, was adopted |  | **Who recognised this?** |
-| 1918.09.15 | capture of Baku by the Islamic Army, followed by massacres of its Armenian population |  | Cemil Cahit Bey |
-| 1920.01.12| | "7 daysbefore 1920.01.19" the de-facto recognition of Azerbaijan Azerbaijan and Georgia by the League of Nations, i.e. on 12 January | |
-| 1920.01.19| | Dashnak Armenia de-facto recognized by the League of Nations ||
-| 1920.04.28 | |  occupation of the Democratic Republic of Azerbaijan, by Bolshevik Russia |
-| 1920.11.30 | Soviet Government of Azerbaijan adopted a Declaration on recognition of Nagorny Karabakh as an integral part of Soviet Armenia as a welcome act towards the victory of Soviet forces in the country |  | **?** |
-| 1920.06.19 || S.Orjonikidze, head of the Caucasian  Bureau of the Central Committee  of the Russian  Communist {Bolshevik) Party sent a telegram to G.Chicherin,  People’s Foreign  Affairs Commissioner  of Russian Soviet Federative Socialist Republic, stating that the Soviet rule is declared in Karabakh and Zangazur and they “consider themselves to be part of the Soviet Republic of Azerbaijan|
-| 1920.08.05. | | Azerbaijan SSR covered the following areas: The territory of Azerbaijan covers the whole of Ganja province and all uyezds of Surmali, Nakhchyvan and Sharur-Daralayaz of the Erivan province, as well as the southern part of Erivan province with villages of Kamarli. Bovuk-Vedi and Davali and the eastern part of Novo Bayazet.  | from the Central State Archive of the Red Army |
-| 1920.11.30.| | decision of the Central Committee of the Communist Party of Azerbaijan | |
-| 1920.12.01.| |N.Narimanov, Chairman of the People’s Commissioners’ Soviet of the Soviet Social ist Republic of Azerbaijan, <p><p> "made a declaration on the occasion of the proclamation  of the Soviet rule in Armenia. In this declaration, the western part of Zangazur uyezd was conceded to Armenia and “the working peasants of Nagorny Karabakh are given the full right to self-determination”.6 As is seen, contraty to the understanding of the Armenian side, the declaration made no reference at all to the “recognition of Nagorny Karabakh as an integral part of Soviet Armenia"  | |
-| 1920.12.02| | agreement was signed between Russia and Armenia, according to Article 3 of which Russia recognized the following territories to be undisputed part of the Soviet Socialist Republic of Armenia: “Erivan province […] part of Kars province […] Zangazur province […] and part of Gazakh uyezd […] and those parts of Tiflis province, which were in the possession of Armenia until 23 October 1920 <p><p> This document testifies that until 2 December 1920 not only Nagorny Karabakh, but also the whole Karabakh, except half of the Zangazur uyezd, were not part of Armenia. It also proves that the declaration by N.Narimanov of 1 December 1920 did not mean concession of Nagorny Karabakh to Armenia. | |
-| 1920.12.18 | League of Nations resolution,  1920/21 annual report of the Ministry of Foreign Affairs of Russia, respectively |  | The Nagorny Karabakh Autonomous Oblast of the Azerbaijan SSR |
-|1921.06.19|  | Presidium of the Central Executive Committee of Azerbaijan held its meeting and discussed inter alia “the report of Comrade Narimanov about his visit to Tiflis on the issue of external borders between the Soviet Republics of Azerbaijan, Georgia and Armenia”. This report  states  in  the most  unambiguous  manner  that  “Nagorny Karabakh  remains  an  inseparable  part  of  Soviet Azerbaijan  with  the right  of internal  self-rule”.  Following  the discussion,  the meeting decided  “to approve the activities  of  the  Commission  on  the  establishment  of  external  borders  between  the  Azerbaijan  SSR  and  the neighbouring Soviet Republics of Transcaucasia ||
-| 1921.06.21 | Government of Soviet Armenia, based on Azerbaijan’s Declaration and the agreement with the Azerbaijani Government, issued a Decree recognizing Nagorny Karabakh as an integral part of Soviet Armenia |  on the basis of a declaration by the Revolutionary Committee of the Azerbaijan SSR [dated 1 December 1920] and agreement between the governments of Soviet Republics of Armenia and Azerbaijan, the Revolutionary Committee of Soviet Armenia declares that from this day on Nagorny Karabakh is inseparable part of the Soviet Republic of Armenia”.9 In other words, the decree confirms that until June 1921 Nagorny Karabakh could not be a part of Armenia  | Other Notes |
-| WHEN?||A/63/78 l-S/2009/156 <p> E/CN.4/2005/G/23| UN DOCUMENTS?|
 
 
 
-##############################
-
-1918\.
-  - [Independent country and loss of independence](https://youtu.be/JFC2hOVh-yQ?t=912, 'Hikmet Hajiyev')
-
-1988.
-  - [NG "leaving Azerbaijan"]
-1988.02.27-29
-  Sumgait
-1991.
-  - Large scale action?
-1992.
-  - Half of territory occupied by azerbaijan [Armenian point of view]
-1993
-  - [List of United Nations Security Council resolutions on the Nagorno-Karabakh conflict](https://en.wikipedia.org/wiki/List_of_United_Nations_Security_Council_resolutions_on_the_Nagorno-Karabakh_conflict)
-1994.05.12
-    - [Bishkek Protocol](https://en.wikipedia.org/wiki/Bishkek_Protocol)
-2009.06.
-  - [Madrid principals](https://en.wikipedia.org/wiki/Madrid_Principles)
-2015.04.14
-  - [Armenian Genocide at Near East Relief and Its Legacy](https://www.youtube.com/watch?v=5ITabGaoto8&ab_channel=NearEastFoundation "NearEastFoundation")
-2015.06.05
-  - [Azerbaijan expels the OSCE](https://www.osw.waw.pl/en/publikacje/analyses/2015-06-17/azerbaijan-expels-osce
-2016.01.26
-  - [Plenary of the Parliamentary Assembly of the Council of Europe rejected a draft report titled Escalation of Violence in Nagorno-Karabakh and the Other Occupied Territories of Azerbaijan[]
-2016.04
-  - azerbajdjani action
-2018.07-09
-  - Foreign Ministry level meeting between Armenia and Azerbaijan
-2018.07.29.
-  - [in UN on innovation and partnership platform for SDG](https://www.youtube.com/watch?v=ZACXUdEllTI&ab_channel=VoiceofArmeniansTVNY "Voice of Armenians TV NY")
-2018.09.27
-  - [UN: Lavrov meets with Armenian FM Zohrab Mnatsakanyan]https://www.youtube.com/watch?v=dG3haOemxxk&ab_channel=Ruptly "from Ruptly")
-2018.10.25
-  - [John Bolton in Yerevan](https://www.azatutyun.am/a/29563885.html)
-2018.10.15
-  - [New Armenian gov since may and "good dynamic"](https://www.youtube.com/watch?v=U907V16RDE4&ab_channel=NEWSAM "Zohrab Mnatsakanyan")
-2019.03.
-  [Armenian def]
-2019.06.11
-  - [Atlantic Council - A Conversation with Hikmet Hajiyev](https://www.youtube.com/watch?v=JFC2hOVh-yQ&t=175s&ab_channel=AtlanticCouncil)
-    - Placement
-      - Washington, DC - 1030 15TH ST NW - 12TH FLOOR
-    - People
-      - [Richard Morningstar](https://en.wikipedia.org/wiki/Richard_Morningstar)
-      - Hikmet Hajiyev is advisor to Aliyev was press oficier to forign minister
-    - Topics:
-      - Energy and economic growth
-      - Security
-        - Early 90s
-          - considered as a failed state?
-        - Now consumer of security --> Contrubutor to security
-        - Azerbaijan territories have been occupied
-        - 1 Million refrugees and IDPs
-        - Dificult geograpy
-          - [Problems with respect Nagorno-Karabakh](https://youtu.be/JFC2hOVh-yQ?t=803)
-      - Foreign policy
-        - How Nagorno-Karabakh is going to be resolved?
-          - Undermines regional peace and security [HH]
-          - [Armenia ha archived nothing(?)](https://youtu.be/JFC2hOVh-yQ?t=1203)
-          - occupied territories
-          - Armenian community have right to live in NG
-          - also Azerbaijani
-            - 700 000 Azerbaijan expelled from the surrounding area
-            - deoccupation
-            - demilitarization
-            - demining
-
-          - yesterday azerbaijani soldier was killed [hh] on line of contact
-            - decorate the soldier who killed azerbaijani so
-            [Europian Union Berlin economics](NGO)
-        - Non interference in our internal affairs [what affairs do they have?]
-        - 4M
-          - Multi-vectoralism
-          - Multi-lateralism
-            - Rule of law in international relations
-              - No just in the counties but also "rules based international order!"
-              - "peruse national interest"
-          - Multi-regionalism
-            - variable geometry (for example gas...)
-            - energy security of Europe
-          - Multi-culturalism
-            - Sunni, Shia, Jew, some other ethnicities
-              - FACT:
-                - [Ethnicities](https://web.archive.org/web/20131110034957/http://www.azstat.org/statinfo/demoqraphic/az/AP_/AZ_1.shtml)
-                91.6% Azerbaijani
-                2.0% Lezgian
-                1.4% Armenian
-                1.3% Russian
-                1.3% Talysh
-                2.4% others
-              - [Religion](https://www.cia.gov/the-world-factbook/countries/azerbaijan/)
-                96.9% Islam
-                3.0% Christianity
-                0.1% Other[3]
-        - Independent
-          - Marketplace of great powers vs battlespace of great powers
-          - cooperation with neighbors
-            - Turkey
-            - Russia
-            - Iran
-        - Predictable
-          - [Morningstar about his job](https://youtu.be/JFC2hOVh-yQ?t=1079)
-        - Logical
-      - Democratic governance
-    - Questions:
-      - Human right index?
-        - [There is not a single model of democracy](https://youtu.be/JFC2hOVh-yQ?t=3004)
-        - "Post Soviet space and its own rialities"
-        - What does transparency international sais about the country?
-      - Media?
-        - 80% have acces to internet?
-        - what about the other 20 %?
-          - What media do the consume?
-          - 5000 people woork in Azerbaijan media industry
-            - Where are they get from their paycheck?
-        -
-      - Travel is limited
-      - "Geopolicital reality"
-        - How secular is Azerbaijan?
-      - [If people living in NG should decide on their own](https://youtu.be/JFC2hOVh-yQ?t=3303 "Robert Bradtke")
-        - Armenian population citizens of Azerbaijan
-        - Alos had Azerbaijani community
-          - What is and was the population distribution in NG?
-          - Status is a dificult issue
-            --> Withdrawn armenian troops from surrounding area then
-          - Self determination
-            - Elements of internal self determination
-            - [international borders is a fundamentional issue!!!](https://youtu.be/JFC2hOVh-yQ?t=3416)
-            - WIthin Azerbaijan can Armenian and Azerbaijani community excercise their selfdetermination (Important phraseing)
-              - North italy issue with german speaking austrians in the 60s
-          - Was NG part of Azerbaijan or not
-            - From Azerbaijani perspective Armenia Occupiedd NG
-            - Changing international recognised borthers
-        - Azerbaijani threat perception
-          - Atrocities and war crimes
-      - Ethnic azerbajdjani in Georgia?
-        - Whats up there?
-      - azerbajdjani export to EU 50%...
-      - [OSCE Mission from Azerbaijan](https://www.osw.waw.pl/en/publikacje/analyses/2015-06-17/azerbaijan-expels-osce)
-        - [(4 years ago...)](https://youtu.be/JFC2hOVh-yQ?t=4235)
-        - No current need for phisycal presence
-        - Anti semitism is raising in wester EU countries
-      - Armenian part in economic
-        - ["One of the pipelines"](https://youtu.be/JFC2hOVh-yQ?t=4417)
-        - Baku to Tbilisi pipeline 2 billion USD?
-      - [Ara Margarian](https://am.linkedin.com/in/ara-margarian-81b41069 "Deputy Chief of Mission at Embassy of Armenia to the US")
-        - 3 main principals
-          - Non use of force
-          - Territory
-          - Self determination
-        - []
-2019.12.05
-  - [Zohrab Mnatsakanyan participates in the OSCE Ministerial Council](https://www.youtube.com/watch?v=obH16KZq84g "Bratislava")
-  - Key aspecs:
-    - About OSCE co-chairs
-    - Right of self-determination of people living in NK
-    - Security of people in NK
-    - Engaging by all parties
-    - Settlement without the risk of escalation
-    - Non use of force
-    - Azerbaijani negotiation of the will of the people in NK
-    - Unacceptable that there would be preconditions in a peace process
-    - Exchange of journalists from all the parties
-    - Low level of aggression on the line of contact
-    - Use of direct communication line
-2020.07.
-  [Armenian–Azerbaijani clashes](https://en.wikipedia.org/wiki/July_2020_Armenian%E2%80%93Azerbaijani_clashes)
-2020.10.12
-  [Lavrov and Armenian FM Mnatsakanyan hold presser after talks in Moscow](https://www.youtube.com/watch?v=vs7Cep9cKZk&ab_channel=Ruptly "fROM Ruptly")
-
-Other events and people:
 https://karabakh.org/karabakh-history/karabakh-during-the-1920-1988/the-nagorny-karabakh-autonomous-oblast-of-the-azerbaijan-ssr/
 
 http://www.nkr.am/en/azerbaijan-karabakh-conflict-history
