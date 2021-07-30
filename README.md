@@ -51,7 +51,7 @@
     - [No:406/20, Statement](https://mfa.gov.az/en/news/no40620-statement-by-the-president-of-the-republic-of-azerbaijan-the-prime-minister-of-the-republic-of-armenia-and-the-president-of-the-russian-federation-enru)
     - [Nagorno-Karabakh ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement)
     - Which participants have motives to maintain the Status quo?
-      - **[Azerbaijan]**(https://www.youtube.com/watch?v=tQuIxpdJdn4)
+      - **[Azerbaijan](https://www.youtube.com/watch?v=tQuIxpdJdn4)**
       - [Armenia](https://www.primeminister.am/en/statements-and-messages/item/2020/11/12/Nikol-Pashinyan-Speech/)
 1. [X] Is it a new or a recurring conflict?
     - [ ] New
