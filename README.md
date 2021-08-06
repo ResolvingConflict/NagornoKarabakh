@@ -257,7 +257,7 @@
 https://karabakh.org/karabakh-history/karabakh-during-the-1920-1988/the-nagorny-karabakh-autonomous-oblast-of-the-azerbaijan-ssr/
 
 http://www.nkr.am/en/azerbaijan-karabakh-conflict-history
-
+  .
 
   - [Earle D. Litzenberger](https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Azerbaijan)
   - [Brenda Shaffer](https://en.wikipedia.org/wiki/Brenda_Shaffer "She has been referred to as a lobbyist on behalf of Azerbaijan, and has faced criticism over her writing of political articles and books related to Azerbaijan while hiding her commercial ties to the Azerbaijani government.")
